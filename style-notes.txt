@@ -1,0 +1,25 @@
+Box-model:
+Body is 900px wide, centered, with 10px padding on top
+Seasonal div contents are 800px wide
+Season title heading background images have a padding of 50px on the top and bottom
+Season title headings have a border-radius of 50px
+All other box properties should be best-guess based on screenshot
+
+Colors:
+Page background is darkslategrey
+Spring background is rgb(254, 240, 158)
+Summer background is rgb(151,227,251)
+Autumn background is #9C2706
+Winter background is steelblue
+
+Fonts:
+The page's main font is 'Montserrat' (Google Fonts)
+Heading fonts are 'Paytone One' (Google Fonts)
+
+Links:
+April Fools: "https://en.wikipedia.org/wiki/April_Fools%27_Day"
+Summer Solstice: "https://en.wikipedia.org/wiki/Summer_solstice"
+Remebrance Day: "https://en.wikipedia.org/wiki/Remembrance_Day"
+Winter Solstice: "https://en.wikipedia.org/wiki/Winter_solstice"
+Links are underlined and yellow on hover
+Links open in a new window

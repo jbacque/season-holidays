@@ -1,0 +1,42 @@
+Seasonal Holidays
+
+Enter the holiday's month: 
+Enter the holiday's day: 
+Name of the holiday: 
+
+Add Holiday
+
+SPRING
+“In the spring, I have counted 136 different kinds of weather inside of 24 hours.” — Mark Twain
+
+Noteable Days
+April Fool's Day: April 1
+Memorial Day (USA): May 27
+------
+
+
+SUMMER
+“I like summer. I like warmer weather and long days. I’m one of those silly people who still enjoy lying in the sun—my children are horrified!” — Danielle Steel
+
+Noteable Days
+Summer Solstice (longest day!): June 21
+Canada Day: July 1
+------
+
+
+AUTUMN
+"Autumn... the year's last, loveliest smile."- William Cullen Bryant
+
+Noteable Days
+Remeberance Day (Canada): November 11
+Canada Day: July 1
+------
+
+
+WINTER
+"To appreciate the beauty of a snowflake it is necessary to stand out in the cold." - Aristotle
+
+Noteable Days
+Winter Solstice (shortest day!): December 22
+Christmas Day: December 25
+------
